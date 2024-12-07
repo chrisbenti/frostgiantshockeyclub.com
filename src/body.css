@@ -1,0 +1,35 @@
+body {
+    background: rgb(0,57,103);
+    background: linear-gradient(45deg, rgba(0,57,103,1) 0%, rgba(0,96,140,1) 50%, rgba(0,137,166,1) 100%);
+}
+
+.suwannaphum-thin {
+    font-family: "Suwannaphum", serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  .suwannaphum-light {
+    font-family: "Suwannaphum", serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .suwannaphum-regular {
+    font-family: "Suwannaphum", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .suwannaphum-bold {
+    font-family: "Suwannaphum", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .suwannaphum-black {
+    font-family: "Suwannaphum", serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
